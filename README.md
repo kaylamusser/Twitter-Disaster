@@ -49,6 +49,8 @@ Analysis:
 
 -Comparison of migration patterns for three of the disaster types comparing two countries affected by the disaster, one with a low gdp and the other with a high gdp and found the average distance from the epicenter over 8 days. 
 
+{% include_relative Q2.html %}
+
 -We can see that in each set of disaster types, there weren't any significant fitted slopes and most of the lines were parallel, showing that over the days, there wasn’t an increase in migration away from the epicenter sites. However, there was a difference in km from the epicenter overall with the different countries, which were compared based on GDP per capita level. 
   
 -In addition to this, we also did a Pearson’s R test for correlation and calculated the p-values. We got a correlation coefficient of -0.24 for the correlation of GDP per Capita (USD) against the average distance traveled. We can see that the correlation coefficient shows a weak negative correlation between GDP per Capita (USD) and distance from the disaster epicenter. However, our p-value of the correlation coefficient gives us 0.38661471513906603, which against a significance level of 0.95, shows that our correlation coefficient could be showing an association where there may not be an association due to sampling errors.
