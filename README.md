@@ -51,6 +51,7 @@ Analysis:
 
 {% include_relative Q2.html %}
 {% include_relative Q3.html %}
+{% include_relative Q4.html %}
 
 -We can see that in each set of disaster types, there weren't any significant fitted slopes and most of the lines were parallel, showing that over the days, there wasn’t an increase in migration away from the epicenter sites. However, there was a difference in km from the epicenter overall with the different countries, which were compared based on GDP per capita level. 
   
