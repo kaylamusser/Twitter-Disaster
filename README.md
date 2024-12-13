@@ -42,6 +42,8 @@ Analysis:
 
 -Compared average distances on each of the first 8 days of all the users from the epicenter of the Wipha typhoon.
 
+{% include_relative Q1.html %}
+
 
 -Compared to the migration of twitter users' locations over the first four days of the Wipha typhoon.
 
