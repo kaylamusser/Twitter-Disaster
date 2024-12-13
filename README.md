@@ -2,7 +2,7 @@
 
 Partner: Korin Wheaton 
 
-Link to colab worksheet: 
+Link to colab worksheet: https://github.com/kaylamusser/Twitter-Disaster/blob/558d492de130f893df6ca8c3aee0db86e7cde004/disasters_project.py
 
 Intro:
 
