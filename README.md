@@ -47,6 +47,8 @@ Analysis:
 
 -Compared to the migration of twitter users' locations over the first four days of the Wipha typhoon.
 
+{% include_relative Q5.html %}
+
 -Comparison of migration patterns for three of the disaster types comparing two countries affected by the disaster, one with a low gdp and the other with a high gdp and found the average distance from the epicenter over 8 days. 
 
 {% include_relative Q2.html %}
